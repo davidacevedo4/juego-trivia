@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BeatReto",
+  "description": "Trivia musical multijugador. Adivina en 3-5s con Spotify API.",
+  "requestFramePermissions": [],
+  "mobileResponsive": true,
+  "androidThemeColor": "#020617"
+}
